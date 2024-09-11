@@ -49,7 +49,7 @@ If you use this dataset, please reference the DOI: [https://doi.org/10.1145/3646
 | **Metadata**     | **Description**                                                                 |
 |------------------|---------------------------------------------------------------------------------|
 | **Flooding-state**    | Indicates the current status of flooding at different data centers. Two possible values are on (online during the event), or off (offline at least for one day).                                             |
-| ** Datacenter**      | Datacenter identification.                                     |
+| **Datacenter**      | Datacenter identification.                                     |
 | **Address**      | Physical address location                              |
 | **City**     | City Identification                    |
 | **CC**       | Contry code                                         |
