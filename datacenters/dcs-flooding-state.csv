@@ -1,0 +1,38 @@
+Flooding-state, Datacenter, Address, City, CC, Website
+on,	CPD-UFRGS, R. Ramiro Barcelos 2574, Porto Alegre, BR, https://www.ufrgs.br/cpd/
+on,	PROCEMPA, R. João Neves da Fontoura 91, Porto Alegre, BR, https://prefeitura.poa.br/procempa
+off, PROCERGS,  R. Antônio Klinger Filho 252, Porto Alegre, BR, https://www.procergs.rs.gov.br/
+on,	Elea-POA1, Rua Engenheiro Afonso Cavalcanti 100, Porto Alegre, BR, https://eleadatacenters.com/
+off, Elea-POA2, Rua Voluntarios da Patria 1555, Porto Alegre, BR, https://eleadatacenters.com/
+off, Scala-SPOAPA01, Av. Pernambuco 1124, Porto Alegre, BR, https://scaladatacenters.com/
+off, Vtal-VOA, Rua Frederico Mentz 1115, Porto Alegre, BR, https://www.vtal.com/data-centers/
+on, Quantico Canoas, Rua Eng. Homero Carlos Simon 1100, Canoas, BR, https://quanticodc.com/
+on, Telium-POA, Av. Independencia 1299, Porto Alegre, BR, https://telium.com.br/
+on, Datacentrix, Av. Carlos Gomes 1672, Porto Alegre, BR, https://datacentrics.cloud/
+off, FIERGS, Av. Assis Brasil 8787,  Porto Alegre, BR, https://www.fiergs.org.br/
+off, TJRS, Av. Borges de Medeiros 1565, Porto Alegre, BR, http://tjrs.jus.br/
+off, TRF4, Rua Otávio Francisco Caruso da Rocha 300, Porto Alegre, BR, https://www.trf4.jus.br/
+off, SEBRAERS, Rua Sete de Setembro 555, Porto Alegre, BR, https://sebraers.com.br/
+off, TECCLOUD-STEFANINI-POA, Rua 18 de Novembro 273, Porto Alegre, BR, https://teccloud.com/
+off, Formac, Travessa Francisco Leonardo Truda 40, Porto Alegre, BR, https://br.digital/
+on, BRDIGITAL-01, Run General Camara 156, Porto Alegre, BR, https://br.digital/
+on, BRDIGITAL-02, Rua Comendador Azevedo 140, Porto Alegre, BR, https://br.digital/
+off, Banrisul01, R. Cap. Montanha 177,  Porto Alegre, BR, https://banrisul.com.br/
+on, Banrisul02, Av. Teresópolis 3621,  Porto Alegre, BR, https://banrisul.com.br/
+on, CEEE,  Av. Joaquim Porto Villanova 15, Porto Alegre, BR, https://ceee.equatorialenergia.com.br/
+off, INMETRORS, Av. Berlim 627, Porto Alegre, BR, https://www.gov.br/inmetro/
+on, PUCRS, Av. Ipiranga 6681, Porto Alegre, BR, http://pucrs.br
+on, Santa Casa, Rua Professor Annes Dias 295, Porto Alegre, BR, http://pucrs.br
+off, TriTelecom, Av Assis Brasil 7802, Porto Alegre, BR, https://tri.com.br/
+on, Nossa Telecom, Rua Furriel Luíz Antônio de Vargas 250, Porto Alegre, BR, https://www.nossatelecom.com.br/
+off, Vogel/Algar, Rua General Bento Martins 24, Porto Alegre, BR, https://algartelecom.com.br/
+off, IFRS-POA, Rua Cel. Vicente 281, Porto Alegre, BR, https://poa.ifrs.edu.br/
+off, UFCSPA, Rua Sarmento Leito 245, Porto Alegre, BR, https://ufcspa.edu.br/
+off, MPRS, Aureliano de Figuereido Pinto 80, Porto Alegre, BR, https://www.mprs.mp.br
+off, TCE/RS, Rua Bento Martins 168, Porto Alegre, BR, https://www.mprs.mp.br
+off, HMD, R. José de Alencar 286, Porto Alegre, BR, https://www.maededeus.com.br/
+on,  HCPA, Rua Ramiro Barcelos 2350 , Porto Alegre, BR, https://www.hcpa.edu.br/
+off,  TRT4, Av. Praia de Belas 1100, Porto Alegre, BR, https://www.trt4.jus.br
+on, GHC, Av. Francisco Trein 596, Porto Alegre, RS, https://www.ghc.com.br/
+off, RDCTV,  R. Paraíba 297, Porto Alegre, RS, https://rdctv.com.br/
+on, RS Sul Net,  Av. Emancipação 93, Eldorado do Sul, RS, http://www.rssulnet.com.br/
