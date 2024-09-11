@@ -39,9 +39,6 @@ This file describes the datacenters dataset “dcs-flooding-state.csv,” genera
 | **irbRequired**            | false                                                                                              |
 | **UsageInstructions**      | Community available dataset |
 
-## Dataset Usage
-
-If you use this dataset, please reference the DOI: [https://doi.org/10.1145/3646547.3689677](https://doi.org/10.1145/3646547.3689677).
 
 
 ### CSV Content
