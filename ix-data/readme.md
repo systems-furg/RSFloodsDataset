@@ -78,9 +78,9 @@ TABLE_DUMP2|1716551500|B|177.52.38.254|26162|189.89.82.0/24|16735 263009 263009 
 
 ## Citation
 
-   If you use this dataset to conduct additional research, please cite it as:
+If you use this dataset to conduct additional research, please cite it as:
 
-<pre>
+```bibtex
 @inproceedings{bertholdo2024building,
   author    = {Leandro Márcio Bertholdo and Renan Barreto Paredes and Pedro de Botelho Marcos},
   title     = {Poster: Building Comprehensive Telecommunications Datasets During a Major Climatic Event},
@@ -94,4 +94,3 @@ TABLE_DUMP2|1716551500|B|177.52.38.254|26162|189.89.82.0/24|16735 263009 263009 
   url       = {https://doi.org/10.1145/3646547.3689677},
   doi       = {10.1145/3646547.3689677}
 }
-</pre>
