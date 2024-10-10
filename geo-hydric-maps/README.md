@@ -30,8 +30,28 @@ Most datasets are references (temporarly) because is too large for GitHub. Below
 
    [More Information](https://www.ufrgs.br/gpden/wordpress/?p=2515)
 
+7. **Google Maps KMZ file in this repository**
+
+   Web Access and original maps source [Here](https://www.google.com/maps/d/viewer?mid=1F2r9aE2ikmUPdplswcceL57m57tfWlQ&ll=-30.100918274494354%2C-51.170058&z=11)
+   ### How to Import the KMZ File into Google Earth
+
+To visualize the **Porto Alegre Flooding Map** in Google Earth, follow these steps:
+<pre>
+      1. Download the KMZ file: **`Porto_Alegre_Flooding_Map_googlemaps.kmz`**.
+      2. Open Google Earth on your desktop or mobile device.
+      3. In the top-left corner, click on the **menu icon** (☰) and select **Projects**.
+      4. Click **Open** or **Import KML/KMZ file**.
+      5. Navigate to the location where you saved the file and select **`Porto_Alegre_Flooding_Map_googlemaps.kmz`**.
+      6. Once imported, the map will display the flooding information for Porto Alegre, allowing you to explore the impact of the 2024 floods in detail.
+
+      You can zoom in, explore specific areas, and interact with the layers to analyze the flood impact data.
+   </pre>
+
 
 Please note that while these maps provide invaluable information for understanding the hydric and geological impacts of the event, for their use you must contact the authors.
 
-The Instituto de Pesquisas Hidráulicas (IPH) – Federal University of Rio Grande do Sul (UFRGS) is one of the main sources for this data. The IPH is renowned for its extensive research in hydrology and water-related environmental studies, providing critical data for understanding and managing natural disasters, including floods and mass movements in southern Brazil.
+The Instituto de Pesquisas Hidráulicas (IPH) – Federal University of Rio Grande do Sul (UFRGS) is one of the main sources for this data. The IPH is renowned for its extensive research in hydrology and water-related environmental studies, providing critical data for understanding and managing natural disasters, including floods and mass movements in southern Brazil. 
+
+[View IPH data here](https://storymaps.arcgis.com/stories/a81d69f4bccf42989609e3fe64d8ef48)
+
 
