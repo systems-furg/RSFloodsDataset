@@ -7,7 +7,7 @@ This folder references a series of hydrological maps related to the 2024 floodin
    [View Map](https://satelliteimagerydemostg.z5.web.core.windows.net/damage-assessment/brazil_porto_alegre_05_08_2024.html)
 
 2. **Porto Alegre Municipality Map of Impact**  
-   A detailed impact map showing the extent of the flood damage within the Porto Alegre municipality.  
+   A detailed impact map shows the flood impact and social damage within the Porto Alegre municipality.  
    [View Map](https://storymaps.arcgis.com/stories/02d01e5f3a2b423893a2b2560fa8ecce)
 
 3. **Map of Probable Maximum Depths for the 2024 Flood in Porto Alegre**  
