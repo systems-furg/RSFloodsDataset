@@ -32,7 +32,8 @@ Most datasets are references (temporarly) because is too large for GitHub. Below
 
 7. **Google Maps KMZ file in this repository**
 
-   Web Access and original maps source [Here](https://www.google.com/maps/d/viewer?mid=1F2r9aE2ikmUPdplswcceL57m57tfWlQ&ll=-30.100918274494354%2C-51.170058&z=11)
+   [View in Googlemaps ](https://www.google.com/maps/d/viewer?mid=1F2r9aE2ikmUPdplswcceL57m57tfWlQ&ll=-30.100918274494354%2C-51.170058&z=11)
+   
    ### How to Import the KMZ File into Google Earth
 
 To visualize the **Porto Alegre Flooding Map** in Google Earth, follow these steps:
