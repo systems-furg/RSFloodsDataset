@@ -75,7 +75,7 @@ TABLE_DUMP2|1716551500|B|177.52.38.254|26162|189.89.82.0/24|16735 263009 263009 
 | **Flags**        | Indicators of route status or conditions.                                        |
 | **MRT Header**   | Information about the type, subtype, and record length of the message.           
 
-
+<!---
 ## Citation
 
 If you use this dataset to conduct additional research, please cite it as:
@@ -94,3 +94,4 @@ If you use this dataset to conduct additional research, please cite it as:
   url       = {https://doi.org/10.1145/3646547.3689677},
   doi       = {10.1145/3646547.3689677}
 }
+-->
