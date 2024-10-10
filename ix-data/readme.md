@@ -14,7 +14,7 @@ This file describes the IPv4 routing dataset “bird.zip,” generated on 2024-0
 | Field                     | Description                                                                                     |
 |---------------------------|-------------------------------------------------------------------------------------------------|
 | **dataSetName**            | poa.ix.br_2024-04-16_2024-05-24                                        |
-| **status**                 | ufrgs_and_ixbr                                                                             |
+| **status**                 | stable                                                                             |
 | **shortDesc**              | Bird Router MRT dataset                                                        |
 | **longDesc**               | Describes the IPv4 routing dataset “bird.zip,” generated on 2024-05-24, provided by IX.br. It captures the routing view of the participant at poa.ix.br with two route servers (x.x.x.253 and x.x.x.254) during the period from 2024-04-16 to 2024-05-24. The data is real and non-anonymized. |
 | **datasetClass**           | Irrestricted                                                                        |
