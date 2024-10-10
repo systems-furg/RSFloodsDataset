@@ -32,21 +32,21 @@ Most datasets are references (temporarly) because is too large for GitHub. Below
 
 7. **Google Maps KMZ file in this repository**
 
-   [View in Googlemaps ](https://www.google.com/maps/d/viewer?mid=1F2r9aE2ikmUPdplswcceL57m57tfWlQ&ll=-30.100918274494354%2C-51.170058&z=11)
-   
-   ### How to Import the KMZ File into Google Earth
-
-To visualize the **Porto Alegre Flooding Map** in Google Earth, follow these steps:
-<pre>
+    To visualize the **Porto Alegre Flooding Map** in Google Earth, follow these steps:
+    <pre>
       1. Download the KMZ file: **`Porto_Alegre_Flooding_Map_googlemaps.kmz`**.
       2. Open Google Earth on your desktop or mobile device.
       3. In the top-left corner, click on the **menu icon** (☰) and select **Projects**.
       4. Click **Open** or **Import KML/KMZ file**.
-      5. Navigate to the location where you saved the file and select **`Porto_Alegre_Flooding_Map_googlemaps.kmz`**.
-      6. Once imported, the map will display the flooding information for Porto Alegre, allowing you to explore the impact of the 2024 floods in detail.
+      5. Navigate to the location where you saved the file and select `Porto_Alegre_Flooding_Map_googlemaps.kmz`.
+      6. Once imported, the map will display the flooding information for Porto Alegre, 
+         allowing you to explore the impact of the 2024 floods in detail.
 
       You can zoom in, explore specific areas, and interact with the layers to analyze the flood impact data.
-   </pre>
+    </pre>
+
+    [View in Googlemaps ](https://www.google.com/maps/d/viewer?mid=1F2r9aE2ikmUPdplswcceL57m57tfWlQ&ll=-30.100918274494354%2C-51.170058&z=11)
+
 
 
 Please note that while these maps provide invaluable information for understanding the hydric and geological impacts of the event, for their use you must contact the authors.
