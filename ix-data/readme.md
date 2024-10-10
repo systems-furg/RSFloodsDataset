@@ -32,7 +32,7 @@ This file describes the IPv4 routing dataset “bird.zip,” generated on 2024-0
 | **keywords**               | category:internet-topology-data, subcategory:ixp-data, address-collection, topology  |
 | **format**                 | MRTDump zipped file                                                                                        |
 | **access**                 | https                                                                                                                                                                 |
-| **providerName**           | UFRGS                                                                                            |                                                                           |
+| **providerName**           | POA.IX.BR                                                                                            |                                                                           |
 | **byteSize**               | 988190709                                                                                       |
 | **expirationDays**         | none                                                                                             |
 | **uncompressedSize**       | 5.4G                                                                                      |
