@@ -2,7 +2,7 @@
 
 README version: 1, last modified: 2024-09-11.
 
-This file describes the IPv4 routing dataset “bird.zip,” generated on 2024-05-24, provided by IX.br. It captures the routing view of the participant at poa.ix.br with two route servers (x.x.x.253 and x.x.x.254) during the period from 2024-04-16 to 2024-05-24. The data is real and non-anonymized.
+This file describes the IPv4 routing dataset “bird.zip,” generated on 2024-05-24, provided by IX.br. It captures the routing view of the participant at poa.ix.br with two route servers (x.x.x.253 and x.x.x.254) during the period from 2024-04-16 to 2024-05-24. The data is non-anonymized.
 
 ## Contents
 - Bird router MRT Dump File Metadata
