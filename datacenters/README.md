@@ -12,7 +12,7 @@ This file describes the datacenters dataset “dcs-flooding-state.csv,” genera
 | **Field**                 | **Description**                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------|
 | **dataSetName**            | dcs-flooding-state.csv                                                                    |
-| **status**                 | ufrgs                                                                                    |
+| **status**                 |                                                                                     |
 | **shortDesc**              | Datacenters CSV dataset                                                                                 |
 | **longDesc**               | Describes the location and datacenters states, if turned off during the event by any reason. All cases were validated with datacenter operators. |
 | **datasetClass**           | Irrestricted                                                                                        |
@@ -53,7 +53,7 @@ This file describes the datacenters dataset “dcs-flooding-state.csv,” genera
 | **Website**  | Datacenter company website |
 
 
-            
+<--            
 ## Citation
 
 If you use this dataset to conduct additional research, please cite it as:
@@ -72,3 +72,4 @@ If you use this dataset to conduct additional research, please cite it as:
   url       = {https://doi.org/10.1145/3646547.3689677},
   doi       = {10.1145/3646547.3689677}
 }
+-->
