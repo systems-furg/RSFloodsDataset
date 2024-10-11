@@ -46,10 +46,11 @@ This file describes the fiber ruptures in a fiber metropolitan network backbone 
 
 | **Metadata**         | **Description**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
-| **Protocolo**         | Incident protocol number.                                                       |
+| **Protocolo**         | Incident protocol number (internal identification)|
 | **Data Abertura**     | The date and time when the incident was first reported or opened.               |
 | **Data Encerramento** | The date and time when the incident was resolved and closed.                    |
-| **Catálogo**          | The general category or type of incident (e.g., Link Loss, Plantão Fibra).      |
+| **Catálogo**          | The general category or type of incident (e.g., Link Loss, rupture).      |
 | **Problema**          | Detailed description of the problem related to the incident.                    |
 | **Site**              | The specific site where the incident occurred (e.g., SLECE, SLEFT, IVTMR).      |
-| **Status**            | Current status of the incident, typically indicating whether it is open or closed (e.g., Encerrado). |
+| **Status**            | Current status of the incident, typically indicating whether it is open or closed |
+
