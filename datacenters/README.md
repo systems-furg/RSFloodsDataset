@@ -53,23 +53,3 @@ This file describes the datacenters dataset “dcs-flooding-state.csv,” genera
 | **Website**  | Datacenter company website |
 
 
-<--            
-## Citation
-
-If you use this dataset to conduct additional research, please cite it as:
- 
-```bibtex
-@inproceedings{bertholdo2024building,
-  author    = {Leandro Márcio Bertholdo and Renan Barreto Paredes and Pedro de Botelho Marcos},
-  title     = {Poster: Building Comprehensive Telecommunications Datasets During a Major Climatic Event},
-  booktitle = {Proceedings of the 2024 ACM Internet Measurement Conference (IMC '24)},
-  year      = {2024},
-  month     = nov,
-  location  = {Madrid, Spain},
-  publisher = {ACM},
-  address   = {New York, NY, USA},
-  pages     = {2},
-  url       = {https://doi.org/10.1145/3646547.3689677},
-  doi       = {10.1145/3646547.3689677}
-}
--->
