@@ -1,0 +1,20 @@
+Queda dos enlaces de Backbone. Circuitos PR2/RS, PR/SC, PR/RS e SP2/RS, impactados por rompimento de fibra.
+Hora/Data da Falha: 00:00 (02/05)
+Hora/Data da Normalização: 11:08 (02/05)
+Solução: Após a ativação emergencial de um circuito de 10G entre SC e PR, o PoP-RS teve sua conectividade normalizada.
+
+SP2/RS
+Hora/Data da Falha: 13:20 (30/04)
+Hora/Data da Normalização: 15:09 (15/06)
+Motivo da Queda: Rompimentos de fibras no Município de Jaboticaba - RS, causados pelas fortes chuvas na Região de Porto Alegre - RS.
+
+PR/RS
+Hora/Data da Falha: 08:45 (28/04)
+Hora/Data da Normalização: 14:23 (02/05)
+Motivo da Queda: Dupla falha. Rompimento de fibra em Florianópolis - SC, ocasionado por vandalismo, em trecho de responsabilidade da parceira CELESC, e o segundo ponto de rompimento da fibra ocorrido em Curitiba - PR, entre o PoP da Operadora e a Estação Sede - PR. ocasionado por obras de terceiros.
+
+
+PR2/RS-CORE / BRDigital
+Hora/Data da Falha: 10:42 (30/04)
+Hora/Data da Normalização: 17:30 (28/05)
+Motivo da Queda: Rompimento de fibra entre Colinas - RS e Jaboticaba - RS, ocasionado pelas fortes chuvas na Região.
