@@ -1,9 +1,16 @@
 # RSFLOODING datasets
 
 # Internet Resilience in Rio Grande do Sul, May 2024 Flooding Event
-README version: 1.1, last modified: 2024-10-10.
+README version: 1.2, last modified: 2024-12-12.
 
 In May 2024, Rio Grande do Sul, Brazil's southernmost state, endured weeks of severe rainfall, causing extensive infrastructure damage in more than 400 cities. The flooding impacted roads, bridges, electrical plants, data centers, communication systems, and homes, disrupting the lives of millions. This repository contains datasets used to analyze the effects of these climatic events on the resilience of Internet infrastructure in the region and its subsequent recovery.
+
+# References
+
+IMC-2024 [Poster: Building Comprehensive Telecommunications Datasets
+During a Major Climatic Event](https://github.com/systems-furg/RSFloodsDataset/blob/main/IMC2024-poster.pdf)
+
+PAM-2025 [Analyzing the Efect of an Extreme Weather Event on Telecommunications and Information Technology: Insights from 30 Days of Flooding] (https://github.com/systems-furg/RSFloodsDataset/blob/main/IMC2024-poster.pdf)
 
 ## Overview
 
