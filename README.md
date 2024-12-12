@@ -10,7 +10,7 @@ In May 2024, Rio Grande do Sul, Brazil's southernmost state, endured weeks of se
 IMC-2024 [Poster: Building Comprehensive Telecommunications Datasets
 During a Major Climatic Event](https://github.com/systems-furg/RSFloodsDataset/blob/main/IMC2024-poster.pdf)
 
-PAM-2025 [Analyzing the Efect of an Extreme Weather Event on Telecommunications and Information Technology: Insights from 30 Days of Flooding] (https://github.com/systems-furg/RSFloodsDataset/blob/main/PAM2025-paper.pdf)
+PAM-2025 [Analyzing the Efect of an Extreme Weather Event on Telecommunications and Information Technology: Insights from 30 Days of Flooding](https://github.com/systems-furg/RSFloodsDataset/blob/main/PAM2025-paper.pdf)
 
 ## Overview
 
